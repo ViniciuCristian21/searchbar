@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "filterSearch",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
